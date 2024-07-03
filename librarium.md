@@ -17,6 +17,7 @@ The Librarium functionality is still under construction, but we're hoping to exp
 	<a href="/gallery/kobrastallion1"><img class="cover" src="/images/comics/covers/kobraStallion.png" /></a>
 	<a href="/gallery/kobrastallion2"><img class="cover" src="/images/comics/covers/kobraStallion2.png" /></a>
 	<a href="/gallery/starbreakers1"><img class="cover" src="/images/comics/covers/starbreakers1.png" /></a>
+	<a href="/gallery/starbreakers2"><img class="cover" src="/images/comics/covers/starbreakers2.png" /></a>
 </div>
 
 <div class="shelf">
