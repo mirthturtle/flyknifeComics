@@ -2,6 +2,7 @@ details {
   padding: 10px;
   background-color: #101010;
   border-radius: 5px;
+  margin-bottom: 10px;
 }
 
 details:hover {

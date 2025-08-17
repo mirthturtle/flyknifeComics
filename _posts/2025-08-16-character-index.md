@@ -6,22 +6,23 @@ date: 2025-08-16 09:59:00
 title: "Character Index Activated"
 
 shell: |
-  > ssh archives.zone
-  Welcome to the Flyknife Comics Archive.
-  Please type the era you wish to access.
-  > access pre-fifth-anthropocene-dataclysm
-  Era unknown.
-  > list eras
-  WARNING: There are currently 199,912 eras in the Archive databank.
-  > what why
-  Command unrecognized.
-  > git log -1
-  commit hash corrupted (HEAD -> archive, origin/archive)
-  Author: CHRISTIAN
-  Date:   Wed Jul 3 03:02:00 27,777 
-  Converted the entire archive to Fischer Timestamps.
-  > CHRISTIAN WHY
-  Command unrecognized.
+  > cd games/ 
+  > ls
+  zone_slayer.game sneetch.game pup_handler.game zone_slayer_2.game
+  > exe ./zone_slayer_2.game 
+
+  WARNING: It has been over 365 Standard Days since last blog post.
+  Do you wish to make a blog post before launching zone_slayer_2.game (y/n)?
+  > no
+  Please type y or n.
+  > n 
+  Unrecognized option.
+  > nnnnn
+  Unrecognized option.
+  > 
+  > y
+  Unrecognized option.
+  > ?????
 
 
 author_farewell: Stay Vigilant, Stay Valiant
