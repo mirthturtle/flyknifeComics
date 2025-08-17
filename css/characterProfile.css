@@ -17,3 +17,69 @@ details:hover {
 .characterProfile img {
 	max-width:20%;
 }
+
+/**
+ * CodePen Setup
+ * (can mostly be ignored)
+ *
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+:where(html) {
+  color-scheme: light dark;
+  font-size: 20px;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+@supports not (min-block-size: 100dvb) {
+  :where(html) {
+    block-size: 100%;
+  }
+}
+
+:where(body) {
+  min-block-size: 100vh;
+  min-block-size: 100dvb;
+  margin: 1em;
+}
+
+p {
+  margin: 0;
+}
+
+details > * + * {
+  margin-top: 1em;
+}*/
+
+/**
+ * The Important Bit
+ * This will match <img> elements with a
+ * `data-float` attribute set to either
+ * `left` or `right`.
+ * The <img> elements can be placed either
+ * as siblings or children of <p> elements.
+ * You can expand this to include within
+ * <li> elements as well, for example,
+ * on line 73.
+ */
+
+[data-float] {
+  margin-bottom: 1em;
+  
+  &[data-float="left"] {
+    float: left;
+    margin-right: 1em;
+  }
+  
+  &[data-float="right"] {
+    float: right;
+    margin-left: 1em;
+  }
+  
+  p & {
+    margin-top: 1em;
+  }
+}
