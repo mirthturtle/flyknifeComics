@@ -40,6 +40,10 @@
         <link href="/gallery/css/galleryStyle.css" rel="stylesheet">
     {% endif %}
 
+    {% if page.page_class contains 'page-characters' %}
+        <link rel="stylesheet" href="/css/characterProfile.css">
+    {% endif %}
+
     <link rel="alternate" type="application/rss+xml" href="/feed.xml">
 
     <link rel="shortcut icon" href="/favicon.png">
