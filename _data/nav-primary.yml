@@ -2,8 +2,11 @@
   url: "/about"
   rel: "me"
 
-- title: Librarium
-  url: "/librarium"
+- title: Valiant Stars
+  url: "/valiant-stars"
+
+- title: STONR GARBAGE
+  url: "/stonr-garbage"
 
 - title: Characters
   url: "/characters"
