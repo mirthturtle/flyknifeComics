@@ -30,7 +30,60 @@
 }
 
 /** Minor additions to support the Librarium page. */
+/** Much of this is duplicated from the character profile CSS, in part because I am a little disorganized but
+ * mostly so that I can get the same effect but modify them independently more easily. **/
+details {
+  padding: 10px;
+  background-color: #101010;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+details:hover {
+  box-shadow: 1px 0px 19px 4px #8cddff, inset 0px 0px 10px rgba(255, 255, 255, 0.5);
+}
+
+.shelf summary {
+     font-size:larger;   
+     color: #8cddff;   
+     text-shadow:0 0 0.5rem #f6a8ff;
+}
+
+.shelf img {
+  max-width:20%;
+}
+
+.shelf p {
+  min-height:200px;
+}
+
 img.cover {
   width:200px;
   height:auto;
+}
+
+[data-float] {
+  margin-bottom: 1em;
+  
+  &[data-float="left"] {
+    float: left;
+    margin-right: 1em;
+  }
+  
+  &[data-float="right"] {
+    float: right;
+    margin-left: 1em;
+  }
+  
+  p & {
+    margin-top: 1em;
+  }
+}
+
+.dramatic {
+  font-weight:700;
+  text-align:center;
+  font-size:larger;
+  color: #f473ff;
+  text-shadow:0 0 0.5rem #f6a8ff;
 }
