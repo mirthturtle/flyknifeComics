@@ -30,8 +30,8 @@
     initSearch();
 
     // enable search input and submit
-    searchInput.disabled  = false;
-    searchSubmit.disabled = false;
+    searchInput.disabled  = true;
+    searchSubmit.disabled = true;
 
 
     ////

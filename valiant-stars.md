@@ -22,6 +22,10 @@ Read on for a story of comedy, exhilaration, radical skateboarding, "fast snacks
 
 <p class="dramatic">It's a time desperate for heroes!</p>
 
+### Jump straight to the newest comic!
+
+<a href="/gallery/calypsoMarchIntro"><img src="/images/newComicBanner.png" /></a>
+
 ### Click a title to open a summary; click a cover to read the book.
 
 <details class="shelf">
@@ -58,4 +62,10 @@ Read on for a story of comedy, exhilaration, radical skateboarding, "fast snacks
   <summary>STARBREAKERS: Gunstar Runaways of the Rebel Sky, Volume 3: Starlight Dreams on the Edge of Forever</summary>
   <a href="/gallery/starbreakers3">CLICK HERE TO READ (COVER IN PROGRESS)</a>
   <p>It's all coming to a head on Ghiscard, and it's coming up fast! Fox and Lisette are locked in a no-holds-barred duel to the death, Claudia just barely has the moons back online, and Rishi and Elegy are still locked in a cell on board the _Calamity and Woe_. The tyrannical Lady Corvus Liyon is on the back foot, but she's not going down without a fight. As the Jockeys get pulled into a centuries-old war between the remnants of Carthagennon, Pegasus rustles up Maako and Robot Peter Chiykowski and stages a daring rescue raid on Kubaryi's ship- but is it enough? Is it truly enough to stop the inexorable darkening of every star in the galaxy?! Has the redemptive power of love finally met its match?!? That's up to you, snakepunk! Witness the thrilling conclusion of the Starbreakers saga in this scintillating final volume, where nothing comes easy, no victory comes cheap, and it ain't over until the sun goes dark.</p>
+</details>
+
+<details class="shelf">
+  <summary>WILDHEART ACCELERATION UNLIMITED Short: Meet Calypso March!</summary>
+  <a href="/gallery/calypsoMarchIntro"><img data-float="left" src="/images/comics/covers/calypsoIntroCover.png" /></a>
+  <p>A short comic adapted from production materials intended to flesh out the Calypso March action figure (with to-scale Turbocycle)! Black market courier Calypso March makes an urgent delivery to a crew of space pirates.</p>
 </details>
