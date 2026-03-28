@@ -22,6 +22,10 @@ Read on for a story of comedy, exhilaration, radical skateboarding, "fast snacks
 
 <p class="dramatic">It's a time desperate for heroes!</p>
 
+### Jump straight to the newest comic!
+
+<a href="/gallery/calypsoMarchIntro"><img src="/images/newComicBanner.png" /></a>
+
 ### Click a title to open a summary; click a cover to read the book.
 
 <details class="shelf">
