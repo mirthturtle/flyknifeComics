@@ -1,3 +1,7 @@
+- title: RSS Feed
+  url: "/feed.xml"
+  target: "_blank"
+
 - title: About
   url: "/about"
   rel: "me"
