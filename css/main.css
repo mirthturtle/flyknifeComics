@@ -459,14 +459,10 @@ ul:not([class])
   margin-top: 1.5rem; }
 
 ol:not([class]),
-ol.default-list {
-  counter-reset: ordered-list; }
   ol:not([class]) li,
-  ol.default-list li {
-    counter-increment: ordered-list; }
     ol:not([class]) li::before,
     ol.default-list li::before {
-      content: "#" counter(ordered-list); }
+      content: "#" counter(list-item); }
 
 ul:not([class]) li::before,
 ul.default-list li::before {
