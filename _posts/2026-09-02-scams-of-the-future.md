@@ -1,7 +1,7 @@
 ---
 layout: article
 
-date: 2026-08-31 15:15:15
+date: 2026-09-02 15:15:15
 
 title: "Scams of the Future"
 
