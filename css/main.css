@@ -608,13 +608,14 @@ a {
   .page-projects .nav-primary-projects a,
   .page-life-comix .nav-primary-life-comix a {
     color: #f473ff;
+    background-color: transparent;
     text-decoration: none; }
   a:not([class])::before {
     -webkit-transition: width 0.2s ease;
     transition: width 0.2s ease;
     will-change: width;
     content: "";
-    background-color: #0d0d0d;
+    background-color: transparent;
     width: 0;
     height: 100%;
     border-bottom-width: 0.125rem;
@@ -632,6 +633,7 @@ a {
     width: 100%;
     left: 0;
     right: auto;
+    background-color: transparent;
     border-bottom-color: #f473ff; }
 
 .heading-anchor {
@@ -1165,3 +1167,50 @@ aside:not([class*="main-aside"]) {
 a:not([class])::before {
   background-clip: padding-box;
   border-radius: 0.125rem; }
+
+/* summer 2026 update */
+
+code {
+  color: #f473ff;
+}
+
+.post-preview {
+  max-width: 250px;
+}
+
+.post-preview-body {
+  display: flex;
+  max-width: 250px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.post-preview-topline {
+  display: flex;
+  align-items: center;
+}
+
+.preview-time {
+  color: grey;
+  font-size: 0.9em;
+}
+
+.post-author-indicator {
+  border-radius: 5px;
+  margin-left: 25px;
+  padding: 0px 6px;
+  color: black !important;
+  font-size: 0.7em;
+}
+
+.christian {
+  background-color: #8dddff;
+}
+
+.bruce {
+  background-color: #dbad62;
+}
+
+.newsbot {
+  background-color: #e184ff;
+}
