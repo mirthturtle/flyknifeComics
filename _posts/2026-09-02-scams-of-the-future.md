@@ -36,4 +36,4 @@ After placing a large strategic market order, I re-booted the system and watched
 
 My Cyb-R_station™ violently exploded, and if my chair's wheels weren't so well lubricated, I might not have been able to glide away from the blast so gracefully. My first instinct said that Bruce had launched a GRIDD attack in retaliation for the cat, but then I noticed my electroplating rig was leaking conductive fluid onto the rug! The silver puddle was quickly seeping over to the propaganda machine, and before I could find a box cutter to take up a strip of the intervening carpet, it reached the computer, detonating it as well. I could already feel the shockwave reverberating through my mineral portfolio, and a hairline crack appeared in the pyrite bar I'd just sold on GoldLYNE Genuine Gold Marketplace.
 
-Maybe it was time to try some vegetable scams instead.
+Maybe it's time to try some vegetable scams instead.
